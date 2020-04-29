@@ -3,7 +3,7 @@ nb = gets.chomp!.to_i
 
 c = 0
 
-i=1
+i=0
 while i <= nb
   c = c + i
   i += 1
